@@ -3,7 +3,7 @@
 	default_mntopts = acl,user_xattr
 	enable_periodic_fsck = 0
 	blocksize = 4096
-	inode_size = 256
+	inode_size = 128
 	inode_ratio = 16384
 
 [fs_types]
